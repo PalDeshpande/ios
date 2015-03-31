@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>224F42BC-FBBD-463F-9979-2B7732F0BF27</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WordFrequency</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F291443C6756CB4B94E7156B41C91B0FF8B569E1</key>
+		<string>github.com:PalDeshpande/WordFrequency.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WordFrequency.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F291443C6756CB4B94E7156B41C91B0FF8B569E1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:PalDeshpande/WordFrequency.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F291443C6756CB4B94E7156B41C91B0FF8B569E1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F291443C6756CB4B94E7156B41C91B0FF8B569E1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WordFrequency</string>
+		</dict>
+	</array>
+</dict>
+</plist>
